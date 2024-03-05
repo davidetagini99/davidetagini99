@@ -6,7 +6,7 @@
 - 😄 Pronouns: that guy there
 - ⚡ Fun fact: ho un sito internet => http://www.davidetagini.space/
 
-- Altro fun fact, è stata fatta la homepage del mio sito internet
+- Altro fun fact, è stata fatta la homepage del mio sito internet in questo readme
 
 <!---
 davidetagini99/davidetagini99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
